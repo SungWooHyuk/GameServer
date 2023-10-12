@@ -1,1 +1,1 @@
-# GameServer
+# 3-2 GameServer TermProject
