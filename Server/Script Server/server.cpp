@@ -381,7 +381,6 @@ void SESSION::send_chat_packet(int p_id, const char* mess)
 	do_send(&packet);
 }
 
-//
 //void timerset(int m_id, int time, COMP_TYPE ET)
 //{
 //	timer_lock.lock();

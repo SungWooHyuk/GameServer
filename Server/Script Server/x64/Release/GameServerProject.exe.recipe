@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\GS_Term\GS\Client\x64\Release\client_sample.exe</FullPath>
+      <FullPath>D:\GS_Term\GS\Server\x64\Release\GameServerProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

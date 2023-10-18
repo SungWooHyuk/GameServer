@@ -1,17 +1,17 @@
-﻿  server.cpp
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(955,21): warning C4838: 'ULONG_PTR'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(955,21): warning C4244: '초기화 중': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(978,21): warning C4838: 'ULONG_PTR'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(978,21): warning C4244: '초기화 중': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(982,40): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(992,40): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(995,34): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(1006,35): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(1189,24): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\Script Server\server.cpp(1190,24): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(Script Server.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  server.cpp
+D:\GS_Term\GS\Server\Script Server\server.cpp(954,21): warning C4838: 'ULONG_PTR'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(954,21): warning C4244: '초기화 중': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(977,21): warning C4838: 'ULONG_PTR'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(977,21): warning C4244: '초기화 중': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(981,40): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(991,40): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(994,34): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(1005,35): warning C4244: '인수': 'ULONG_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(1188,24): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GS_Term\GS\Server\Script Server\server.cpp(1189,24): warning C4244: '=': 'SQLINTEGER'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다.
-  0 of 661 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB not found, fall back to full compilation.
+  All 661 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  Script Server.vcxproj -> C:\Users\1tjdd\OneDrive\바탕 화면\2016184023 성우혁 기말텀프로젝트\Server\x64\Release\Script Server.exe
+  Script Server.vcxproj -> D:\GS_Term\GS\Server\x64\Release\GameServerProject.exe
